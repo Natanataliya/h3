@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+.hh1
+ {
+ 	height: 100px;
+	margin-right: 0;
+
+}
+
+.hh1 p{
+	width: 100%;
+}
+.hh {
+	height: 50px;
+	
+}
+.col  {
+	
+	font-family: grid, cursive, sans-serif;
+	font-size: 26px;
+
+}
